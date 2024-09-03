@@ -66,4 +66,4 @@ int main() {
     cout << *(b2.p) << '\n';        // freeing b1's memory block does not affect b2's memory block
 }
 
-//nice
+// now this is good
